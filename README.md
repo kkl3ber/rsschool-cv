@@ -1,1 +1,1 @@
-link for cv here later
+https://github.com/kkl3ber/rsschool-cv/blob/master/cv.md
