@@ -1,14 +1,25 @@
-1. Kevin Kleber
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
-
-Will fill this in later
+# Random CV (but really it's just testing Markdown)
+## Name
+Kevin Kleber
+## Contact Info
+* Discord: _Suiba#5201_
+* Email: _kleber_kevin@web.de_
+## Summary 
+###### Goal
+* finishing this course 
+###### What is important for me and why
+* learning a lot about developing, coding, and JavaScript
+## Programming Skills
+**Languages:** Python, Java, ABAP, Javascript, C++ (from best to worst)
+* mostly coded Python privately to work on personal projects that heavily involved machine learning
+## Experience
+* working as a programmer for half a year
+* working on various projects in university
+* working as a program tester for over half a year
+## Education 
+* studied Computer Science in Dresden
+* finished with a Bachelor of Science
+## English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+* basic school education
+* tons of experience through various online sources
+* speaking/using english in my daily life for years
