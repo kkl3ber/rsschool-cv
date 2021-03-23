@@ -19,7 +19,7 @@ Kevin Kleber
 ## Education 
 * studied Computer Science in Dresden
 * finished with a Bachelor of Science
-## English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+## English
 * basic school education
 * tons of experience through various online sources
 * speaking/using english in my daily life for years
